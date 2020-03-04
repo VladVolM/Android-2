@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">А2-Володимир</string>
+    <string name="alta">Регистрацыя</string>
+    <string name="valoracion">Стоемость</string>
+    <string name="ver">Смотреть</string>
+    <string name="salir">Выход</string>
+    <string name="aceptar">Принять</string>
+    <string name="cancelar">Отменить</string>
+    <string name="nombre">Средне:</string>
+    <string name="apellidos">Фамилия:</string>
+    <string name="edad">Года:</string>
+    <string name="valor">Каличиство:</string>
+    <string name="media">Средне</string>
+    <string name="inicio">НАЧАЛО</string>
+    <string name="Hdatos">Есть даты</string>
+    <string name="NHdatos">Нету датов</string>
+    <string name="Dintro">Даты добавлены</string>
+    <string name="Vaplicado">Каличиство добавлено</string>
+    <string name="editar">Поменять</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">A2-Volodymyr</string>
+    <string name="alta">Alta</string>
+    <string name="valoracion">Valoracion</string>
+    <string name="ver">Ver</string>
+    <string name="salir">Salir</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="edad">Edad:</string>
+    <string name="valor">Valor:</string>
+    <string name="media">Media:</string>
+    <string name="inicio">INICIO</string>
+    <string name="Hdatos">Hay datos presentes</string>
+    <string name="NHdatos">No hay datos</string>
+    <string name="Dintro">Datos introducidos</string>
+    <string name="Vaplicado">Valor aplicado</string>
+    <string name="editar">Editar</string>
+</resources>

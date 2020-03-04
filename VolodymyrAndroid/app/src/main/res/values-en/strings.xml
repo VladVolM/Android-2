@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A2-Volodymyr</string>
+    <string name="alta">Admission</string>
+    <string name="valoracion">Worth</string>
+    <string name="ver">See</string>
+    <string name="salir">Exit</string>
+    <string name="aceptar">Accept</string>
+    <string name="cancelar">Cancel</string>
+    <string name="nombre">Name:</string>
+    <string name="apellidos">Surnames:</string>
+    <string name="edad">Age:</string>
+    <string name="valor">Value:</string>
+    <string name="media">Avarage:</string>
+    <string name="inicio">START</string>
+    <string name="Hdatos">Data present</string>
+    <string name="NHdatos">There is no data</string>
+    <string name="Dintro">Data introduced</string>
+    <string name="Vaplicado">Value aplied</string>
+    <string name="editar">Edit</string>
+</resources>
