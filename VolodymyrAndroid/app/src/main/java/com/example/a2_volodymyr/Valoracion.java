@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
@@ -36,8 +37,10 @@ public class Valoracion extends AppCompatActivity {
             intent.putExtra("valor",valor);
 
             setResult(RESULT_OK,intent);
+            Log.d("Valoracion","Aceptada");
         }else {
             setResult(RESULT_CANCELED);
+            Log.d("Valoracion","Cancelada");
         }
         finish();
     }

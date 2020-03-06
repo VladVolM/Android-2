@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
@@ -45,8 +46,10 @@ public class IntroducirDatos extends AppCompatActivity {
             intent.putExtra("apellidos",apellidos);
             intent.putExtra("edad",edad);
             setResult(RESULT_OK,intent);
+            Log.d("Datos","Aceptado");
         }else {
             setResult(RESULT_CANCELED);
+            Log.d("Datos","Cancelado");
         }
 
         finish();
